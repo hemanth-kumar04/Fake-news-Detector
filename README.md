@@ -1,7 +1,3 @@
-You can use the following content for your `README.md` to describe your project. Feel free to customize it further if needed:
-
----
-
 # Fake News Detection Using NLP and Machine Learning
 
 This project focuses on detecting fake news using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The goal is to build a machine learning model that can classify news articles as either **Fake** or **Real** based on the content of the article.
